@@ -13,4 +13,4 @@ cd express-quora-clone
 npm install
 
 # Run server
-node server.js
+node index.js
